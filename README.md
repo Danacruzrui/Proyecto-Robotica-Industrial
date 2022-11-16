@@ -1,6 +1,6 @@
 <h1 align="center"> :star2:  Robótica - Proyecto Final :star2: </h1> 
 
-Desarrollo de un sistema robotizado para la automatización de procesos de ensamble de herramientas de sujeción (gripper) a partir de la implementación de un mecanismo neumatico adaptado al robot industrial ABB IRB 140.
+Desarrollo de un sistema robotizado Pick and Place, para la automatización de procesos de ensamble de herramientas de sujeción (gripper), a partir de la implementación de un mecanismo neumatico adaptado al robot industrial ABB IRB 140.
 
 ---
 
