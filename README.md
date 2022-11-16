@@ -1,6 +1,9 @@
 <h1 align="center"> :star2:  Robótica - Proyecto Final :star2: </h1> 
+
 Desarrollo de un sistema robotizado para la automatización de procesos de ensamble de herramientas de sujeción (gripper) a partir de la implementación de un mecanismo neumatico adaptado al robot industrial ABB IRB 140.
 ---
+
+
 > ## Autores
 > 
 > - [Brian Camilo Saiz Cavanzo](https://github.com/briansaiz) (brcsaizca@unal.edu.co) :poodle:
