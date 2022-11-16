@@ -1,2 +1,2 @@
-<h1 align="center"> Robótica - Proyecto Final </h1>  #stars
+<h1 align="center"> :sparkles:  Robótica - Proyecto Final :sparkles: </h1>  #stars
 Proy
