@@ -1,3 +1,10 @@
+---
+detikId: 190130051
+---
+---
+driveId: 1EC8BnjJMon-vqy-UhLKk9sf_oukZzEbP/preview
+---
+
 <h1 align="center"> :star2:  Robótica - Proyecto Final :star2: </h1> 
 
 Desarrollo de un sistema robotizado Pick and Place, para la automatización de procesos de ensamble de herramientas de sujeción (gripper), a partir de la implementación de un mecanismo neumatico adaptado al robot industrial ABB IRB 140.
@@ -18,7 +25,8 @@ Desarrollo de un sistema robotizado Pick and Place, para la automatización de p
 
 ## Diseño del Gripper 
 
-[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Hc79sDi3f0U "Now in Android: 55")
+{% include googleDrivePlayer.html id=page.driveId %}
+
 
 ## Diseño del porta herramientas 
 ## Modelo RobotStudio 
