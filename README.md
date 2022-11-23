@@ -1,9 +1,4 @@
----
-detikId: 190130051
----
----
-driveId: 1EC8BnjJMon-vqy-UhLKk9sf_oukZzEbP/preview
----
+
 
 <h1 align="center"> :star2:  Robótica - Proyecto Final :star2: </h1> 
 
@@ -24,12 +19,6 @@ Desarrollo de un sistema robotizado Pick and Place, para la automatización de p
 
 
 ## Diseño del Gripper 
-
-{% include googleDrivePlayer.html id=page.driveId %}
----
-{% include 20detikPlayer.html id=page.detikId %}
----
-
 ## Diseño del porta herramientas 
 ## Modelo RobotStudio 
 ## Código RAPID
