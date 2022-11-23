@@ -7,10 +7,10 @@ Desarrollo de un sistema robotizado Pick and Place, para la automatización de p
 
 > ## Autores
 > 
-> - [Brian Camilo Saiz Cavanzo](https://github.com/briansaiz) (brcsaizca@unal.edu.co) :poodle:
+> - [Camilo Andrés Borda Gil](https://github.com/Canborda) (caabordagi@unal.edu.co)  :+1:
 > - [Daniel Alexander Cruz Ruiz ](https://github.com/Danacruzrui) (danacruzrui@unal.edu.co) 🥒👌 
 > - [Cristhian Ferney Pulido Garcia](https://github.com/CristhianPu) (cfpulidog@unal.edu.co) :hibiscus:
-> - [Camilo Andrés Borda Gil](https://github.com/Canborda) (caabordagi@unal.edu.co)  :+1:
+> - [Brian Camilo Saiz Cavanzo](https://github.com/briansaiz) (brcsaizca@unal.edu.co) 🌞
 ---
 
 
