@@ -21,12 +21,14 @@ Desarrollo de un sistema robotizado Pick and Place, para la automatización de p
 ---
 
 
-***Aquí se pone un video bien vergas del funcionamiento y un resumen de lo que obtuvimos***
+
 
 ## Diseño del Gripper 
 
 {% include googleDrivePlayer.html id=page.driveId %}
-
+---
+{% include 20detikPlayer.html id=page.detikId %}
+---
 
 ## Diseño del porta herramientas 
 ## Modelo RobotStudio 
